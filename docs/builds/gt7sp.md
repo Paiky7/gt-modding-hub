@@ -68,6 +68,9 @@ Closest build to GT6. Some leftover [TinyWeb](../concepts/adhoc/tinyweb.md) adho
     * CompileVMKVersion: `gt.beta.ps4.product.release.build`
     * sceSNDX Library build date: `May  2 2017 19:30:01`
 
+??? youtube "Video by [Paiky/GT Archive](https://www.youtube.com/@GTArchivePaiky)"
+      <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=D-jjXmi2FiU" title="Gran Turismo Sport Closed Beta Test Version [1.04] | CUSA-07836 | Jun 4, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 ## GT Sport - Open Beta
 
