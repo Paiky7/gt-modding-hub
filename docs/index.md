@@ -32,7 +32,7 @@ Specifically, we need these builds if you have them:
 
 * GT Sport
     * Closed Beta Version (US/Asia/Japan), if you have entitlement to it and have it installed on an old PS4, we need you to jailbreak it and dump it for preservation!
-    * Open Beta (EU/Asia), same as above!
+    * Open Beta Asia, same as above!
 
 And any other builds we don't have in the [builds](builds/game_builds.md) page!
 
